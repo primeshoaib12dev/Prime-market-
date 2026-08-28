@@ -1,0 +1,6 @@
+{
+  "name": "Prime Market",
+  "description": "AI-powered marketplace intelligence SaaS helping online sellers analyze products, generate listings, and discover market trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
